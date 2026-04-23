@@ -58,19 +58,6 @@ Combines data engineering and analytics to generate **risk-based insights**.
 
 Final dataset stored in **DuckDB** for fast analytics.
 
----
-
-## ▶️ Run
-
-```bash
-git clone https://github.com/YOUR_USERNAME/fraud-detection-pipeline.git
-cd fraud-detection-pipeline
-pip install pyspark pandas duckdb
-jupyter notebook
-```
-
----
-
 ## 👤 Author
 
 Your Name
