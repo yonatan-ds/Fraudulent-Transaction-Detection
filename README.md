@@ -77,4 +77,4 @@ Your Name
 
 Yonatan kiross
 
-⭐ *A practical big data project for real-world fraud detection*
+ *A practical big data project for real-world fraud detection*
